@@ -8,7 +8,7 @@ This is a project done to obtain the Free Code Camp Responsive Web Design certif
 
 # High fidelity prototype
 
-<img src="High_fidelity_prototype.png" width="600px" height="600px">
+<img src="High_fidelity_prototype.png" width="700px" height="500px">
 
 # Final product
 
