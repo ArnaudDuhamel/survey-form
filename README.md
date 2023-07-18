@@ -4,7 +4,7 @@ This is a project done to obtain the Free Code Camp Responsive Web Design certif
 
 # Sketch
 
-<img src="sktech.jpg" width="600px" height="600px">
+<img src="sktech.jpg" width="600" height="600">
 
 # High Fidelity prototype
 
