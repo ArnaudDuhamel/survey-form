@@ -12,5 +12,5 @@ This is a project done to obtain the Free Code Camp Responsive Web Design certif
 
 ## Final product
 
-<img src="final_product.png" width="700px" height="500px">
-<img src="final_product_2.png" width="700px" height="500px">
+<img src="final_product.png" width="700px" height="400px">
+<img src="final_product_2.png" width="700px" height="400px">
