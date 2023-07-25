@@ -1,6 +1,6 @@
 # Survey Form
 
-This is a project done to obtain the Free Code Camp Responsive Web Design certification.
+This is the first project done to obtain the Free Code Camp Responsive Web Design certification.
 
 ## Sketch
 
