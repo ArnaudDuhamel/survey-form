@@ -4,13 +4,12 @@ This is the first project done to obtain the Free Code Camp Responsive Web Desig
 
 ## Sketch
 
-<img src="sketch.jpg" width="600px" height="600px">
+<img src="sketch.jpg" />
 
 ## High fidelity prototype
 
-<img src="High_fidelity_prototype.png" width="700px" height="500px">
+<img src="High_fidelity_prototype.png" />
 
 ## Final product
 
-<img src="final_product.png" width="700px" height="400px">
-<img src="final_product_2.png" width="700px" height="400px">
+<img src="Final_product.png" />
